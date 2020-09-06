@@ -32,8 +32,8 @@
 
 #### Contacts:
 
-- E-mail: [mail@nodir.dev](mailto:mail@nodir.dev)
-- Phone: [+998(90)-557-2240](tel:+998905572240)
-- Twitter: [@nodirbek_rare](https://twitter.com/nodirbek_rare)
+- E-mail: [mail@nodir.dev](mailto://mail@nodir.dev)
+- Phone: [+998(90)-557-2240](tel://+998905572240)
+- Twitter: [@nodirbek_rare](https://twitter.com/nodir_dev)
 - Instagram: [@sharipov_nodirbek](https://www.instagram.com/sharipov_nodirbek)
 - Telegram: [@nodirbek_sharipov](https://t.me/nodirbek_sharipov)
