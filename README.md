@@ -30,10 +30,16 @@
 - [🐙](https://github.com/Nodirbek-Sharipov/lotin-krill) - [Lotin-Krill](https://lotin-krill.netlify.app/) - You guessed it, it translates 🇺🇿🇷🇺
 
 
+#### I write blogs sometimes:
+
+- dev.to: [nodir_dev](https://dev.to/nodir_dev)
+- medium: [nodir_dev](https://medium.com/@nodir_dev)
+
+
 #### Contacts:
 
 - E-mail: [mail@nodir.dev](mailto://mail@nodir.dev)
 - Phone: [+998(90)-557-2240](tel://+998905572240)
-- Twitter: [@nodirbek_rare](https://twitter.com/nodir_dev)
+- Twitter: [@nodir_dev](https://twitter.com/nodir_dev)
 - Instagram: [@sharipov_nodirbek](https://www.instagram.com/sharipov_nodirbek)
 - Telegram: [@nodirbek_sharipov](https://t.me/nodirbek_sharipov)
