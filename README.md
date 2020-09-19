@@ -23,7 +23,7 @@
 - [🐙](https://github.com/Nodirbek-Sharipov/discounts-react) - [Arbazarr](https://discounts-react.netlify.app/) - ReactJS TypeScript template for multi themed & localized app
 - [🐙](https://github.com/Nodirbek-Sharipov/COVID-19-react-build) - [COVID-19](https://uzcovid.netlify.app/) - pandemic tracker 📈📆
 - [🐙](https://github.com/Nodirbek-Sharipov/TheMoment) - [The Moment](https://play.google.com/store/apps/details?id=com.nodir.themoment) - Barbershop reservation 💇‍♂️⏰
-- [🐙](https://github.com/Nodirbek-Sharipov/FileUpload_React_Node_SocketIO) - [File Uploader React-Node](https://github.com/Nodirbek-Sharipov/FileUpload_React_Node_SocketIO) - Resumable file upload, SocketIO 💇‍♂️⏰
+- [🐙](https://github.com/Nodirbek-Sharipov/FileUpload_React_Node_SocketIO) - [File Uploader React-Node](https://github.com/Nodirbek-Sharipov/FileUpload_React_Node_SocketIO) - Resumable file upload, SocketIO 🗂⚛️
 - [🐙](https://github.com/Nodirbek-Sharipov/react-ui) - [React UI](https://ui-react.netlify.app/) - Cool UI written in ReactJS ⚛️👨‍💻
 - [🐙](#!) - [Brick Crusher](https://play.google.com/store/apps/details?id=com.NodirbekSharipov.BrickCrusher) - sh*tty game 💩🎮
 - [🐙](#!) - [Dars Jadvali](https://play.google.com/store/apps/details?id=com.urdu.NodirbekSharipov.DarsJadvali) - Timetable app for [UrSU](https://www.urdu.uz/en) 📆⏰
