@@ -1,6 +1,6 @@
 ### Hi there 👋
 
- I'm a 23y.o. software engineer from Uzbekistan, specialized in scalability, security, immersive user experiences and full-stack development.
+ I'm a 24y.o. software engineer from Uzbekistan, specialized in scalability, security, immersive user experiences and full-stack development.
 
 - 🔭 Currently working on micro-services & cloud computing 
 - 🌱 Currently learning TypeScript with node & react
