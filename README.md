@@ -9,17 +9,18 @@
 
 #### I'm comfortable working with:
 
--   NodeJS - back-end logic (WebSockets, REST APIs, JSON-RPC)
--   ReactJS - SPA, PWA, WebRTC
--   ReactNative - cross platform native mobile apps
--   C# - desktop apps, games, services
--   DBMS - relational databases (MySQL, MsSQL, SQLite)
+-   NodeJS - GraphQL, WebSockets, REST APIs, JSON-RPC
+-   ReactJS - SPA, PWA, WebRTC, Redux
+-   ReactNative - Cross-platform native mobile apps
+-   C# - ASP.net core
+-   DBMS - relational databases (MySQL, SQL Server, SQLite)
 -   DevOps - CI/CD, Docker, Kubernetes, AWS, GCP
--   MongoDB - NoSql database (Mongoose)
+-   NoSql - Firestore, MongoDB
 
 
 #### Things I made lately:
- - [Rize](https://joinrize.com/) - An audio based professional community startup based in London, with iOS and android apps
+- [Rize](https://joinrize.com/) - An audio based professional community startup based in London, with iOS and android apps
+- [sdb.uz](https://sdb.uz/) - A consumer electronics reseller store based in Uzbekistan
 - [🐙](https://github.com/Nodirbek-Sharipov/discounts-react) - [Arbazarr](https://discounts-react.netlify.app/) - ReactJS TypeScript template for multi themed & localized app
 - [🐙](https://github.com/Nodirbek-Sharipov/COVID-19-react-build) - [COVID-19](https://uzcovid.netlify.app/) - pandemic tracker 📈📆
 - [🐙](https://github.com/Nodirbek-Sharipov/TheMoment) - [The Moment](https://play.google.com/store/apps/details?id=com.nodir.themoment) - Barbershop reservation 💇‍♂️⏰
