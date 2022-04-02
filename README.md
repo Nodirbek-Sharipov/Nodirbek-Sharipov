@@ -2,9 +2,9 @@
 
  I'm a 24y.o. software engineer from Uzbekistan, specialized in scalability, security, immersive user experiences and full-stack development.
 
-- 🔭 Currently working on micro-services & cloud computing 
-- 🌱 Currently learning TypeScript with node & react
-- 💬 Can talk about Node & React forever
+- 🔭 Currently working on system architectures, micro-services & cloud computing 
+- 🌱 Currently learning TypeScript & GraphQL
+- 💬 Can talk about Node & React + Native forever
 
 
 #### I'm comfortable working with:
@@ -19,7 +19,7 @@
 
 
 #### Things I made lately:
-
+ - [Rize](https://joinrize.com/) - An audio based professional community startup based in London, with iOS and android apps
 - [🐙](https://github.com/Nodirbek-Sharipov/discounts-react) - [Arbazarr](https://discounts-react.netlify.app/) - ReactJS TypeScript template for multi themed & localized app
 - [🐙](https://github.com/Nodirbek-Sharipov/COVID-19-react-build) - [COVID-19](https://uzcovid.netlify.app/) - pandemic tracker 📈📆
 - [🐙](https://github.com/Nodirbek-Sharipov/TheMoment) - [The Moment](https://play.google.com/store/apps/details?id=com.nodir.themoment) - Barbershop reservation 💇‍♂️⏰
