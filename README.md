@@ -39,8 +39,8 @@
 
 #### Contacts:
 
-- E-mail: [sharipovn4@gmail.com](mailto://sharipovn4@gmail.com)
-- Phone: [+998(90)-557-2240](tel://+998905572240)
+- E-mail: [sharipovn4@gmail.com](mailto:sharipovn4@gmail.com)
+- Phone: [+998(90)-557-2240](tel:+998905572240)
 - Twitter: [@nodir_dev](https://twitter.com/nodir_dev)
 - Instagram: [@sharipov_nodirbek](https://www.instagram.com/sharipov_nodirbek)
 - Telegram: [@nodirbek_sharipov](https://t.me/nodirbek_sharipov)
