@@ -19,7 +19,7 @@
 
 
 #### Things I made lately:
-- [Rize](https://joinrize.com/) - An audio based professional community startup based in London, with iOS and android apps
+- [Rize](https://play.google.com/store/apps/details?id=com.joinrize.rize) - An audio based professional community startup based in London, with iOS and android apps
 - [sdb.uz](https://sdb.uz/) - A consumer electronics reseller store based in Uzbekistan
 - [🐙](https://github.com/Nodirbek-Sharipov/discounts-react) - [Arbazarr](https://discounts-react.netlify.app/) - ReactJS TypeScript template for multi themed & localized app
 - [🐙](https://github.com/Nodirbek-Sharipov/COVID-19-react-build) - [COVID-19](https://uzcovid.netlify.app/) - pandemic tracker 📈📆
