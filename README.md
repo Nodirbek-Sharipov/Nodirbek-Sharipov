@@ -1,47 +1,34 @@
-### Hi there 👋
+### Nodirbek Sharipov
 
- I'm a 24y.o. software engineer from Uzbekistan, specialized in scalability, security, immersive user experiences and full-stack development.
+Software engineer from Uzbekistan. Specializes in front-end web and mobile development, excels in delivering top-notch solutions. Work experience includes designing mobile and web apps at CaliberX, enhancing UI/UX at Epam Systems, and building a voice-based social network at RizeTogether. Adaptable, fast learner, a valuable addition to any team.
 
-- 🔭 Currently working on system architectures, micro-services & cloud computing 
-- 🌱 Currently learning TypeScript & GraphQL
-- 💬 Can talk about Node & React + Native forever
+My goal is to have a purpose and be part of teams that build valuable products
 
 
-#### I'm comfortable working with:
+#### The tech stack I'm in
+ - Stacks: TypeScript, React, ReactNative, Context API, Redux, ES6+, NodeJS, JWT, REST APIs CMS: Contentful, Strapi,
+ - DB: MySQL, MS SQL Server
+ - Tools: Asana, Jira, Slack, Github, Git, Gitlab, Figma, Heap, Sentry, Postman, Android Studio, Xcode
 
--   NodeJS - GraphQL, WebSockets, REST APIs, JSON-RPC
--   ReactJS - SPA, PWA, WebRTC, Redux
--   ReactNative - Cross-platform native mobile apps
--   C# - ASP.net core
--   DBMS - relational databases (MySQL, SQL Server, SQLite)
--   DevOps - CI/CD, Docker, Kubernetes, AWS, GCP
--   NoSql - Firestore, MongoDB
-
-
-#### Things I made lately:
-- [Rize](https://play.google.com/store/apps/details?id=com.joinrize.rize) - An audio based professional community startup based in London, with iOS and android apps
-- [sdb.uz](https://sdb.uz/) - A consumer electronics reseller store based in Uzbekistan
-- [🐙](https://github.com/Nodirbek-Sharipov/discounts-react) - [Arbazarr](https://discounts-react.netlify.app/) - ReactJS TypeScript template for multi themed & localized app
-- [🐙](https://github.com/Nodirbek-Sharipov/COVID-19-react-build) - [COVID-19](https://uzcovid.netlify.app/) - pandemic tracker 📈📆
-- [🐙](https://github.com/Nodirbek-Sharipov/TheMoment) - [The Moment](https://play.google.com/store/apps/details?id=com.nodir.themoment) - Barbershop reservation 💇‍♂️⏰
-- [🐙](https://github.com/Nodirbek-Sharipov/FileUpload_React_Node_SocketIO) - [File Uploader React-Node](https://github.com/Nodirbek-Sharipov/FileUpload_React_Node_SocketIO) - Resumable file upload, SocketIO 🗂⚛️
-- [🐙](https://github.com/Nodirbek-Sharipov/react-ui) - [React UI](https://ui-react.netlify.app/) - Cool UI written in ReactJS ⚛️👨‍💻
-- [🐙](#!) - [Brick Crusher](https://play.google.com/store/apps/details?id=com.NodirbekSharipov.BrickCrusher) - sh*tty game 💩🎮
-- [🐙](#!) - [Dars Jadvali](https://play.google.com/store/apps/details?id=com.urdu.NodirbekSharipov.DarsJadvali) - Timetable app for [UrSU](https://www.urdu.uz/en) 📆⏰
-- [🐙](https://github.com/Nodirbek-Sharipov/weather) - [GPS Weather](https://gps-weather.netlify.app/) - Nothing but weather app 📍🌦
-- [🐙](https://github.com/Nodirbek-Sharipov/lotin-krill) - [Lotin-Krill](https://lotin-krill.netlify.app/) - You guessed it, it translates 🇺🇿🇷🇺
+#### Awesome things I worked on:
+ - [CaliberX](https://www.caliberexchange.com/) - Powering end-to-end alternative investing experiences. Our APIs connect your customers to top private equity and venture capital funds while unlocking new recurring revenue streams.
+ - [Poolit Web](https://www.poolit.com/)
+ - [Poolit Mobile](https://apps.apple.com/uz/app/poolit-access-alt-investments/id1621546981) - Poolit delivers exclusive access to premium private equity and venture capital investments, from top fund managers. Accredited investors can invest with low minimums.
+ - [Pearson+](https://www.pearson.com/en-us/pearsonplus.html) - Your eTextbooks, study videos, and more — all in one place
+ - [Rize](https://play.google.com/store/apps/details?id=com.joinrize.rize) - Rize is where founders help each other win faster through honest 1:1 interactions that are light enough to fit around the chaos.
+ - [sdb.uz](https://sdb.uz/) - A chain of home appliances and electronics stores at affordable prices
 
 
 #### I write blogs sometimes:
 
-- dev.to: [nodir_dev](https://dev.to/nodir_dev)
-- medium: [nodir_dev](https://medium.com/@nodir_dev)
+ - dev.to: [nodir_dev](https://dev.to/nodir_dev)
+ - medium: [nodir_dev](https://medium.com/@nodir_dev)
 
 
 #### Contacts:
-
-- E-mail: [sharipovn4@gmail.com](mailto:sharipovn4@gmail.com)
-- Phone: [+998(90)-557-2240](tel:+998905572240)
-- Twitter: [@nodir_dev](https://twitter.com/nodir_dev)
-- Instagram: [@sharipov_nodirbek](https://www.instagram.com/sharipov_nodirbek)
-- Telegram: [@nodirbek_sharipov](https://t.me/nodirbek_sharipov)
+ - E-mail: [sharipovn4@gmail.com](mailto:sharipovn4@gmail.com)
+ - Phone: [+998(90)-557-2240](tel:+998905572240)
+ - LinkedIn: [nodirdev](https://www.linkedin.com/in/nodirdev/)
+ - GitHub: [GitHub: @nodir-js](https://github.com/nodir-js)
+ - Twitter: [@nodir_dev](https://twitter.com/nodir_dev)
+ - Telegram: [@nodirbek_sharipov](https://t.me/nodirbek_sharipov)
