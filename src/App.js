@@ -170,7 +170,7 @@ const App = ({ history }) => {
 
 	useEffect(() => {
 		document.body.style.backgroundImage = `url(.${bg})`;
-	}, [version])
+	}, [bg, version])
 
 	let options = {}
 
@@ -179,6 +179,7 @@ const App = ({ history }) => {
 	let transformPrefix = ''
 
 	useEffect(() => {
+		// eslint-disable-next-line
 		options = {
 			pointerFine: window.matchMedia("(pointer: fine)"),
 			windowWidth: window.innerWidth,
@@ -187,6 +188,7 @@ const App = ({ history }) => {
 			windowResizeTimeout: 100,
 		}
 
+		// eslint-disable-next-line
 		elements = {
 			overlay: document.querySelector(".js-overlay"),
 			site: document.querySelector(".js-site"),
@@ -200,6 +202,7 @@ const App = ({ history }) => {
 			cursorInner: document.querySelector(".js-cursorInner"),
 		}
 
+		// eslint-disable-next-line
 		transformPrefix = (()=>{
 			let e = document.createElement("div")
 			if (null == e.style.transform) {
@@ -408,6 +411,7 @@ const App = ({ history }) => {
 			canvasProps.image.removeEventListener("load", loadImage)
 		}
 
+	// eslint-disable-next-line
 	}, [pathname, version])
 
 	return (
