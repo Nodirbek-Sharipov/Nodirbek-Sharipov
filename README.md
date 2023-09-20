@@ -29,6 +29,6 @@ My goal is to have a purpose and be part of teams that build valuable products
  - E-mail: [sharipovn4@gmail.com](mailto:sharipovn4@gmail.com)
  - Phone: [+998(90)-557-2240](tel:+998905572240)
  - LinkedIn: [nodirdev](https://www.linkedin.com/in/nodirdev/)
- - GitHub: [GitHub: @nodir-js](https://github.com/nodir-js)
+ - GitHub: [@nodir-js](https://github.com/nodir-js)
  - Twitter: [@nodir_dev](https://twitter.com/nodir_dev)
  - Telegram: [@nodirbek_sharipov](https://t.me/nodirbek_sharipov)
