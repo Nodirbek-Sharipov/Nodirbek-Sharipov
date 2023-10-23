@@ -114,9 +114,9 @@ const versionChanges = {
 		),
 		bio: (
 			<span>
-				Software engineer from Uzbekistan. Specializes in front-end web and mobile development, excels in delivering top-notch solutions. Work experience includes designing mobile and web apps at CaliberX, enhancing UI/UX at Epam Systems, and building a voice-based social network at RizeTogether. Adaptable, fast learner, a valuable addition to any team.
+				Product oriented mobile/web engineer. Front-end web and mobile development specialist, system architecture generalist. Designed mobile and web apps at CaliberX, built a design system and mobile apps at Epam Systems, architected the system infrastructure and mobile apps at RizeTogether LLC.
 				<br /><br />
-				My goal is to have a purpose and be part of teams that build valuable products
+				Obsessed with building valuable products that improve lives
 			</span>
 		),
 		contacts: [
